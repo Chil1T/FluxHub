@@ -15,7 +15,7 @@
 ## Repo-local skills
 
 - [../../.agents/skills/winui-sticky-notes-entry/SKILL.md](../../.agents/skills/winui-sticky-notes-entry/SKILL.md)
-- [../../.agents/skills/playground-repo-maintenance/SKILL.md](../../.agents/skills/playground-repo-maintenance/SKILL.md)
+- [../../.agents/skills/fluxhub-repo-maintenance/SKILL.md](../../.agents/skills/fluxhub-repo-maintenance/SKILL.md)
 
 These skills are intentionally narrow. They should point contributors to the correct repo documents and defaults, not replace global system skills.
 

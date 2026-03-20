@@ -17,9 +17,10 @@ REQUIRED_PATHS = [
     "docs/runbooks/repo-modernization-baseline.md",
     "docs/runbooks/github-remote-preflight.md",
     "docs/specs/README.md",
+    "docs/specs/2026-03-20-fluxhub-mvp-spec.md",
     "docs/plans/README.md",
     ".agents/skills/winui-sticky-notes-entry/SKILL.md",
-    ".agents/skills/playground-repo-maintenance/SKILL.md",
+    ".agents/skills/fluxhub-repo-maintenance/SKILL.md",
     ".github/workflows/repo-hygiene.yml",
 ]
 MARKDOWN_LINK_RE = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -45,7 +46,7 @@ class RepoContractTests(unittest.TestCase):
     def test_repo_local_skills_have_basic_metadata(self) -> None:
         skill_paths = [
             REPO_ROOT / ".agents/skills/winui-sticky-notes-entry/SKILL.md",
-            REPO_ROOT / ".agents/skills/playground-repo-maintenance/SKILL.md",
+            REPO_ROOT / ".agents/skills/fluxhub-repo-maintenance/SKILL.md",
         ]
         for path in skill_paths:
             content = path.read_text(encoding="utf-8")

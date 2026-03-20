@@ -1,6 +1,6 @@
-# PlayGround
+# FluxHub
 
-PlayGround is a Codex-first collaboration repository for a future Windows-native sticky notes and capture app.
+FluxHub is a Codex-first collaboration repository for a future Windows-native sticky notes and capture app.
 
 The repository currently contains collaboration scaffolding only. It does not yet contain WinUI project files, application code, or product tests.
 
@@ -16,7 +16,8 @@ The repository currently contains collaboration scaffolding only. It does not ye
 - [docs/README.md](docs/README.md): documentation index
 - [docs/runbooks/github-remote-preflight.md](docs/runbooks/github-remote-preflight.md): checklist before adding and pushing a GitHub remote
 - [.agents/skills/winui-sticky-notes-entry/SKILL.md](.agents/skills/winui-sticky-notes-entry/SKILL.md): repo-local product planning skill
-- [.agents/skills/playground-repo-maintenance/SKILL.md](.agents/skills/playground-repo-maintenance/SKILL.md): repo-local maintenance skill
+- [.agents/skills/fluxhub-repo-maintenance/SKILL.md](.agents/skills/fluxhub-repo-maintenance/SKILL.md): repo-local maintenance skill
+- [docs/specs/2026-03-20-fluxhub-mvp-spec.md](docs/specs/2026-03-20-fluxhub-mvp-spec.md): first approved product spec draft
 - [.github/workflows/repo-hygiene.yml](.github/workflows/repo-hygiene.yml): repository validation workflow
 
 ## Local validation

@@ -12,6 +12,7 @@ This directory is the stable documentation entry point for the repository.
 ## Delivery path
 
 - [specs/README.md](specs/README.md): where future product specs belong
+- [specs/2026-03-20-fluxhub-mvp-spec.md](specs/2026-03-20-fluxhub-mvp-spec.md): first MVP product spec draft
 - [plans/README.md](plans/README.md): where future implementation plans belong
 
 ## Rules for this directory

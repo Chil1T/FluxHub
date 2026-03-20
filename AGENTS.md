@@ -1,7 +1,7 @@
-# PlayGround
+# FluxHub
 
 ## Purpose
-- This file is the repo entry point for Codex in PlayGround.
+- This file is the repo entry point for Codex in FluxHub.
 - Keep it short and stable. Put durable detail in `docs/` and only add nested `AGENTS.md` files when a deeper directory needs different rules.
 
 ## Repository direction
@@ -17,7 +17,7 @@
 
 ## Repo-local assets
 - Repo-local skills live under `.agents/skills/`.
-- Keep repo-local skills narrow and specific to PlayGround. Do not duplicate generic system skills.
+- Keep repo-local skills narrow and specific to FluxHub. Do not duplicate generic system skills.
 - Product specs belong in `docs/specs/`. Implementation plans belong in `docs/plans/`.
 
 ## Validation

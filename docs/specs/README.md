@@ -2,6 +2,10 @@
 
 Place approved product and technical specs here.
 
+## Current spec
+
+- [2026-03-20-fluxhub-mvp-spec.md](2026-03-20-fluxhub-mvp-spec.md): FluxHub MVP product specification
+
 ## Default naming
 
 Use:

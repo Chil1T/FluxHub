@@ -1,9 +1,9 @@
 ---
-name: playground-repo-maintenance
-description: Use when changing repository rules, docs, repo-local skills, CI, or validation scaffolding in PlayGround.
+name: fluxhub-repo-maintenance
+description: Use when changing repository rules, docs, repo-local skills, CI, or validation scaffolding in FluxHub.
 ---
 
-# PlayGround Repo Maintenance
+# FluxHub Repo Maintenance
 
 Use this skill for repository maintenance work that is specific to this repo.
 
